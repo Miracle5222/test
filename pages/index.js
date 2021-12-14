@@ -12,8 +12,7 @@ export default function Home() {
       </Head>
 
     <div>
-      <h1>hello world</h1>
-      <h2>sample branch added</h2>
+      
     </div>
     </div>
   )
